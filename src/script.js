@@ -1,5 +1,4 @@
-function hello () {
+function helloGit () {
     console.log("Hello from Git!")
 }
- hello();
- 
+ helloGit();
